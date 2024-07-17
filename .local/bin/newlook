@@ -1,0 +1,12 @@
+#!/bin/bash
+
+wall=$(find ~/Downloads/wallpapers/ -type f -name "*jpg" -o -name "*.png" | shuf -n 1)
+
+#add this as background wallpaper
+xwallpaper --zoom $wall
+
+#generate colour scheme
+wal -c
+wal -i $wall
+
+xdotool key super+F5

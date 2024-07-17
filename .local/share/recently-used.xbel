@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/AliFarooq/Downloads/wallpapers/wallhaven-6d6kgl.png" added="2024-06-30T15:26:37.776619Z" modified="2024-06-30T15:26:37.776638Z" visited="2024-06-30T15:26:37.776621Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-30T15:26:37.776629Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/wallpapers/wallhaven-exl88k.png" added="2024-06-30T15:26:44.243270Z" modified="2024-06-30T15:26:44.243279Z" visited="2024-06-30T15:26:44.243271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-30T15:26:44.243275Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/wallpapers/wallhaven-jx79o5.png" added="2024-06-30T15:26:50.025669Z" modified="2024-06-30T15:26:50.025696Z" visited="2024-06-30T15:26:50.025672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-30T15:26:50.025686Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/wallpapers/wallhaven-x6gjyz.jpg" added="2024-06-30T15:27:08.476098Z" modified="2024-06-30T15:27:08.476107Z" visited="2024-06-30T15:27:08.476099Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-30T15:27:08.476103Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/wallpapers/wallhaven-5gomv9.jpg" added="2024-06-30T15:27:18.285740Z" modified="2024-06-30T15:27:18.285754Z" visited="2024-06-30T15:27:18.285742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-30T15:27:18.285748Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/wallpapers/wallhaven-6d6pvl.jpg" added="2024-06-30T15:27:22.721671Z" modified="2024-06-30T15:27:22.721682Z" visited="2024-06-30T15:27:22.721672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-30T15:27:22.721677Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/wallpapers/wallhaven-85mdwk.jpg" added="2024-06-30T15:27:30.205192Z" modified="2024-06-30T15:27:30.205200Z" visited="2024-06-30T15:27:30.205193Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-30T15:27:30.205195Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/wallpapers/wallhaven-kx5km6.jpg" added="2024-06-30T15:27:44.712072Z" modified="2024-06-30T15:27:44.712087Z" visited="2024-06-30T15:27:44.712074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-30T15:27:44.712081Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/Frank%20Herbert%20-%20Dune.mobi" added="2024-07-16T19:52:47.431540Z" modified="2024-07-16T19:54:01.322460Z" visited="2024-07-16T19:52:47.431543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-mobipocket-ebook"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-16T19:54:01.322449Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/AliFarooq/Downloads/Dune%20by%20Frank%20Herbert.pdf" added="2024-07-16T20:39:26.687522Z" modified="2024-07-16T21:11:32.684914Z" visited="2024-07-16T20:39:26.687523Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-16T21:11:32.684910Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

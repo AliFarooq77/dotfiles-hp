@@ -1,0 +1,1 @@
+"JetBrains Mono:size=11", "JoyPixels:pixelsize=11:antialias=true:autohint=true"
